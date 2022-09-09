@@ -1,5 +1,4 @@
 package util;
-import repository.User;
 import java.sql.*;
 public class WorkingWithEntities {
 
